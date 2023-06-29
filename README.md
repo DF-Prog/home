@@ -1,5 +1,5 @@
 # :man_technologist: Rômulo Rodrigues
-<p align="center"><img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="25%"></p>
+<p align="center"><img src="https://www.wsa.net.br/img/code.gif" width="25%"></p>
 
 ## Bem-Vindo ao meu Perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
