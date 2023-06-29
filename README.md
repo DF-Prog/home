@@ -2,11 +2,12 @@
 
 # :man_technologist: Rômulo Almeida Rodrigues
 
-## Bem-Vindo ao meu Portfólio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Bem-Vindo ao meu Portfólio
 
 - Minha formação e expertise em análise e desenvolvimento de sistemas. ( desktop, web e mobile )
+<hr/>
 
-## Minhas Habilidades Tecnológicas
+### Minhas Habilidades Tecnológicas
 
 - ##### Sistemas Operacionais: 
 ![Linux](https://camo.githubusercontent.com/3d19bca140701b593c0ed5101fe1bcf5bf97652d25ece3a8dbd5261e2eb8d715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75785f4d696e742d3837434633453f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e75782d6d696e74266c6f676f436f6c6f723d7768697465) | 
